@@ -1,0 +1,2 @@
+# care_transition_effeciency_placement_outcome_analytics
+Analytics of care transition efficiency and patient placement outcomes.
